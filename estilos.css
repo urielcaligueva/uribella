@@ -1,34 +1,32 @@
-img{
-    width: 389px;
-    display: block;
-
-
+body {
+  background-color: rgb(22, 0, 0);
+  padding: 0px;
 }
 
-h1{
+h1 {
   color: wheat;
-  text-align: center;  
+  text-align: center;
 }
 
-body{
-    background-color:rgb(22, 0, 0);
-    padding: 0px;
-
+p {
+  color: wheat;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 15px;
+  margin: 9%;
+  text-align: center;
 }
 
-p{
-    color: wheat;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 15px;
-    margin: 9%;
+img {
+  width: 389px;
+  display: block;
 }
 
-.uribella{
-    color: rgba(255, 255, 255, 0.384);
-    text-align: end ;
+.uribella {
+  color: rgba(255, 255, 255, 0.384);
+  text-align: end;
 }
 
-.derechos{
-    color: rgba(255, 255, 255, 0.384);
-    text-align: center ;
+.derechos {
+  color: rgba(255, 255, 255, 0.384);
+  text-align: center;
 }
